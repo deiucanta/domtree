@@ -20,5 +20,6 @@ dom::html([
 1. `dom::loop($items, function($item) { ... });`
 2. dom nodes as instances (append, render, etc)
 3. predefined node types with macros
+4. use PHP's DOMDocument but keep an improved API
 
 ## Contributions are welcome!
